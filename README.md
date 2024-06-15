@@ -7,7 +7,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Git+profile!😃...;++;Welcome+to+my+Git+profile!"></a>
 </p>
 
-<p align="center"> <strong>Junior Data Analyst</strong> with background in Telecomunications.<br /> know me better👇!</p>
+<p align="center"> <strong>Data Analyst</strong> with background in Telecomunications.<br /> know me better👇!</p>
 <p align="center">
    <a href="https://www.linkedin.com/in/eduardo-rojo-sm/" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="midudev" height="28px" width="28px" />
